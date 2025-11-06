@@ -110,5 +110,20 @@
     <ClInclude Include="clsShowTransfarLog.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="clsCurrency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowCurrencyMainMinu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowCurrenciesList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowFindCurrency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowUpdateCurrency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
