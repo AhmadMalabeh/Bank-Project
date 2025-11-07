@@ -239,6 +239,16 @@ public:
     {
         return _LoadCurrencysDataFromFile();
     }
+
+    static float ExchangeFromCurrencyToDolar(clsCurrency Currency,float Ammount) {
+
+        return  Ammount / Currency.Rate();
+
+    }
+
+    static float ExchangeFromDolarToCurrency(clsCurrency Currency, float Ammount) {
+        return Currency.Rate() * Ammount;
+    }
 };
 
 

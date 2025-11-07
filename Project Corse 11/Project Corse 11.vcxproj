@@ -143,6 +143,7 @@
     <ClInclude Include="clsScreen.h" />
     <ClInclude Include="clsShowAddNewClientScreen.h" />
     <ClInclude Include="clsShowCurrenciesList.h" />
+    <ClInclude Include="clsShowCurrencyCalculater.h" />
     <ClInclude Include="clsShowCurrencyMainMinu.h" />
     <ClInclude Include="clsShowDeleteClientScreen.h" />
     <ClInclude Include="clsShowFindClientScreen.h" />
